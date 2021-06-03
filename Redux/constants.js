@@ -1,0 +1,4 @@
+export const ADD_TO_WORKOUT = "ADD_TO_WORKOUT";
+export const REMOVE_FROM_WORKOUT = "REMOVE_FROM_WORKOUT";
+export const START_WORKOUT = "START_WORKOUT";
+export const STOP_WORKOUT = "STOP_WORKOUT";

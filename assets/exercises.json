@@ -1,0 +1,124 @@
+[
+    {
+        "_id": {
+            "$oid": "1"
+        },
+        "name": "Push up",
+        "body_part": "Chest",
+        "category": "Bodyweight",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "2"
+        },
+        "name": "Pull up",
+        "body_part": "Back",
+        "category": "Bodyweight",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "3"
+        },
+        "name": "Dip",
+        "body_part": "Chest",
+        "category": "Bodyweight",
+        "countInStock": 10,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "4"
+        },
+        "name": "Row",
+        "body_part": "Back",
+        "category": "Dumbbell",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5"
+        },
+        "name": "Chest press",
+        "body_part": "Chest",
+        "category": "Barbell",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6"
+        },
+        "name": "Pull up",
+        "body_part": "Back",
+        "category": "Weighted",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "7"
+        },
+        "name": "Dip",
+        "body_part": "Chest",
+        "category": "Weighted",
+        "countInStock": 10,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "8"
+        },
+        "name": "Pull up",
+        "body_part": "Back",
+        "category": "Bodyweight",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "9"
+        },
+        "name": "Dip",
+        "body_part": "Chest",
+        "category": "Bodyweight",
+        "countInStock": 10,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "10"
+        },
+        "name": "Pull up",
+        "body_part": "Back",
+        "category": "Bodyweight",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "11"
+        },
+        "name": "Dip",
+        "body_part": "Chest",
+        "category": "Bodyweight",
+        "countInStock": 10,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "12"
+        },
+        "name": "Pull up",
+        "body_part": "Back",
+        "category": "Bodyweight",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "13"
+        },
+        "name": "Dip",
+        "body_part": "Chest",
+        "category": "Bodyweight",
+        "countInStock": 10,
+        "__v": 0
+    }
+]

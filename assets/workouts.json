@@ -1,0 +1,80 @@
+[
+    {
+        "_id": {
+            "$oid": "1"
+        },
+        "name": "Push",
+        "description": "Chest, Shoulders, Tricep",
+        "level": "advanced",
+        "exercises": [
+            {
+                "exercise": "Push up",
+                "default_sets": 5,
+                "default_reps": 25
+            },
+            {
+                "exercise": "Dip",
+                "default_sets": 5,
+                "default_reps": 10
+            },
+            {
+                "exercise": "Shoulder Push up",
+                "default_sets": 5,
+                "default_reps": 8
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "2"
+        },
+        "name": "Pull",
+        "description": "Back, Biceps",
+        "level": "intermediate",
+        "exercises": [
+            {
+                "exercise": "Pull up",
+                "default_sets": 5,
+                "default_reps": 15
+            },
+            {
+                "exercise": "Row",
+                "default_sets": 5,
+                "default_reps": 15
+            },
+            {
+                "exercise": "Bicep curl",
+                "default_sets": 3,
+                "default_reps": 16
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "3"
+        },
+        "name": "Legs",
+        "description": "Quads, Hamstring, Calfs",
+        "level": "beginner",
+        "exercises": [
+            {
+                "exercise": "Squat",
+                "default_sets": 5,
+                "default_reps": 12
+            },
+            {
+                "exercise": "Deadlift",
+                "default_sets": 4,
+                "default_reps": 10
+            },
+            {
+                "exercise": "Calf raise",
+                "default_sets": 6,
+                "default_reps": 20
+            }
+        ],
+        "__v": 0
+    }
+]
